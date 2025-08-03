@@ -32,7 +32,7 @@ portfolio/
 
 1. Clone this repository:
 
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/mercy-ndiritu/hackathon-portfolio.git
    
 Navigate to the project folder:
 
